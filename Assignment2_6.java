@@ -1,4 +1,7 @@
 //WAP to check whether an array is a subset of another array.
+//This programme evaluates if the subset is present in an array in that order only like:
+//If [1,2,3] is prensent in[4,5,1,2,3,6,7]-->True
+//But [1,3,2] is prensent in[4,5,1,2,3,6,7]-->False
 import java.util.Scanner;
 
 public class Assignment2_6 {
